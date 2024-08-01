@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-eminent&label=Profile%20views&color=0e75b6&style=flat" alt="the-eminent" /> </p>
 
-- 🔭 I’m currently working on [Project Approval System](https://the-eminent.github.io/Project-Approval_Web-App/landing-page.html)
+- 🔭 Currently, I am pursuing my studies at Cal State Fullerton, CA, USA.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning Machine Learning and Full Stack development.
 
 - 👯 I’m looking to collaborate on **open source project related to Web Development and C++**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ks346572@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-bF7QYTyQ-VDHqcURvxbPfGfe-e7JutH/view](https://drive.google.com/file/d/1-bF7QYTyQ-VDHqcURvxbPfGfe-e7JutH/view)
+<!-- 📄 Know about my experiences [https://drive.google.com/file/d/1-bF7QYTyQ-VDHqcURvxbPfGfe-e7JutH/view](https://drive.google.com/file/d/1-bF7QYTyQ-VDHqcURvxbPfGfe-e7JutH/view)  -->
 
 - ⚡ Fun fact **Switching between pixels and goals, I thrive on both code and football. Just like clean code, a clean shot feels satisfying too. 🎮⚽**
 
