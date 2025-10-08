@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source project related to Web Development and C++**
 
-- 👨‍💻 All of my projects are available at [https://the-eminent.github.io/Portfolio-v1/](https://the-eminent.github.io/Portfolio-v1/)
+- 👨‍💻 All of my projects are available at [https://itsrathore.netlify.app/](https://itsrathore.netlify.app/)
 
 - 💬 Ask me about **C/C++, Python and Frontend Development**
 
